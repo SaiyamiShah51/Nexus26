@@ -1,0 +1,6 @@
+{
+  "name": "FIFA Smart Stadium",
+  "description": "Smart Stadiums & Tournament Operations Hackathon Prototype",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
